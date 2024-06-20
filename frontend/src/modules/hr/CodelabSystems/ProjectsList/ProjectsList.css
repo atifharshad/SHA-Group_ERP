@@ -1,0 +1,5 @@
+tr:hover td.hvr {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}

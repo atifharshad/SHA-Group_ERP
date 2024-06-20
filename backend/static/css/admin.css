@@ -1,0 +1,107 @@
+#header {
+    background: #0093dd;
+    color: #fff; 
+}
+
+#branding h1 {
+    color: #fff;
+}
+
+a {
+    color: black;
+}
+
+a:link,
+a:visited {
+    color: #0093dd;
+}
+
+div.breadcrumbs {
+    background: black;
+    color: whitesmoke;
+}
+
+div.breadcrumbs a:hover {
+    color: #0093dd;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    background: #0093dd;
+}
+
+#changelist-filter li.selected a {
+    color: #0093dd;
+}
+
+#changelist-filter a {
+    color: white;
+}
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+    background: #343a40;
+}
+
+input[type=submit].default, .submit-row input.default {
+    background: #27a844;
+}
+
+th.action-checkbox-column {
+    background: black;
+}
+
+#changelist table thead th {
+    background: black;
+}
+
+#changelist-filter a:focus, #changelist-filter a:hover, #changelist-filter li.selected a:focus, #changelist-filter li.selected a:hover {
+    color: #000000!important;
+}
+
+#changelist-filter li.selected a {
+    color: #0093dd!important;
+}
+
+.object-tools a:link, .object-tools a:visited {
+    background: #343a40;
+}
+
+.object-tools a:hover{
+    background: #0093dd; 
+}
+
+
+#header a:hover {
+    color: #343a40;
+}
+
+
+#changelist-filter h3 {
+    color: white;
+}
+
+#searchbar:focus {
+    outline-color: black;
+}
+
+select:focus {
+    outline-color: black;
+}
+
+tr.selected {
+    background-color: gray!important;
+}
+
+
+.paginator input[type=submit].default:hover {
+    background: #27a844!important;
+    color: white;
+    outline-style: solid;
+    outline-color: white;
+}
+
+.submit-row input.default:hover, .submit-row input:hover  {
+    background: #27a844!important;
+    color: white;
+    outline-style: solid;
+    outline-color: white;
+}
